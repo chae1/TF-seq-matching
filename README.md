@@ -4,4 +4,4 @@ Python script for the following workflow:
 * read a promoter sequence "SIRT3_promoter.txt" and find all TF sequence and corresponding positions (fast string matching algorithm is used)
 * write results to "result.csv"
 
-To reproduce the results, modify the file paths used in the script "seq.py".
+To reproduce the results, modify the file paths used in the script "seq.py". 
